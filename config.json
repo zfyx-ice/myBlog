@@ -1,6 +1,19 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+  "title": "ユキの部屋",
+  "subTitle": "一个简陋的避风港",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/237422127?v=4",
+  "GMEEK_VERSION": "last",
+  "script": "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
+  "allHead": "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+  "needComment": 0,
+  "startSite": "11/29/2025",
+  "iconList": {
+    "music": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\" width=\"16\" height=\"16\"><path d=\"M9 3v7.5a1.5 1.5 0 1 1-1-1.415V5L4 6v2.5A1.5 1.5 0 1 1 3 7.5V2h6z\"/></svg>"
+  },
+  "exlink": {
+    "music": "https://chii.in/user/zfyx_ice"
+  },
+  "singlePage": [
+    "about"
+  ]
 }

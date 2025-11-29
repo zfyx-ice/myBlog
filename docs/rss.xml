@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ユキの部屋</title><link>https://zfyx-ice.github.io</link><description>一个简陋的避风港</description><copyright>ユキの部屋</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/237422127?v=4</url><title>avatar</title><link>https://zfyx-ice.github.io</link></image><lastBuildDate>Sat, 29 Nov 2025 17:15:57 +0000</lastBuildDate><managingEditor>ユキの部屋</managingEditor><ttl>60</ttl><webMaster>ユキの部屋</webMaster><item><title>终于搭好了</title><link>https://zfyx-ice.github.io/post/zhong-yu-da-hao-le.html</link><description>其实我很久之前就想搭一个自己的博客了，但由于自己的动手能力有限，屡次尝试终究未能成功，这次终于搭好了
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ユキの部屋</title><link>https://zfyx-ice.github.io</link><description>一个简陋的避风港</description><copyright>ユキの部屋</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/237422127?v=4</url><title>avatar</title><link>https://zfyx-ice.github.io</link></image><lastBuildDate>Sat, 29 Nov 2025 17:21:34 +0000</lastBuildDate><managingEditor>ユキの部屋</managingEditor><ttl>60</ttl><webMaster>ユキの部屋</webMaster><item><title>学习与日常</title><link>https://zfyx-ice.github.io/post/xue-xi-yu-ri-chang.html</link><description>### 最近没有什么大事发生，但仍感到心力憔悴
+**期中考试的余热还未褪去，接下来上场的是培优联盟考**
+
+- 上次的成绩不尽人意，这次我感觉还是要寄
+
+当我坐在考场时，那时的我会想些什么？
+是在后悔前些天学习的浑浑噩噩，还是想着家里的小丛雨在等着我呢？我想应该是后者吧。</description><guid isPermaLink="true">https://zfyx-ice.github.io/post/xue-xi-yu-ri-chang.html</guid><pubDate>Sat, 29 Nov 2025 17:21:07 +0000</pubDate></item><item><title>终于搭好了</title><link>https://zfyx-ice.github.io/post/zhong-yu-da-hao-le.html</link><description>其实我很久之前就想搭一个自己的博客了，但由于自己的动手能力有限，屡次尝试终究未能成功，这次终于搭好了
 我会在这里写一些自己的文章（大概）
 ### 后记
   tmd刚弄好的被我搞炸了，重新有弄了一个。</description><guid isPermaLink="true">https://zfyx-ice.github.io/post/zhong-yu-da-hao-le.html</guid><pubDate>Sat, 29 Nov 2025 17:12:12 +0000</pubDate></item></channel></rss>

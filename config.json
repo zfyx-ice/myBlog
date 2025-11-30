@@ -8,10 +8,10 @@
   "needComment": 0,
   "startSite": "11/29/2025",
   "iconList": {
-    "music": "m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751"
+    "link"
   },
   "exlink": {
-    "music": "https://chii.in/user/zfyx_ice"
+    "link": "https://chii.in/user/zfyx_ice"
   },
   "singlePage": [
     "about"
